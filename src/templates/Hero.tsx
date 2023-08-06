@@ -13,7 +13,7 @@ const Hero = () => (
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
           <Link href="https://northlink.netlify.app/">
-            北海
+            NorthLink
           </Link>
         </li>
         <li>
