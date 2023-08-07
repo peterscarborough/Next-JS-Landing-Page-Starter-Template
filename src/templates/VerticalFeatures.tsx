@@ -2,10 +2,7 @@ import { VerticalFeatureRow } from '../feature/VerticalFeatureRow';
 import { Section } from '../layout/Section';
 
 const VerticalFeatures = () => (
-  <Section
-    title="冻货"
-    description="Frozen Items"
-  >
+  <Section title="冻货" description="Frozen Items">
     <VerticalFeatureRow
       title="冻虾"
       description="虾仁，有头虾，去头白虾，去头老虎虾"
