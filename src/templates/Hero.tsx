@@ -28,7 +28,7 @@ const Hero = () => (
             <span className="text-primary-500">北海公司</span>
           </>
         }
-        description="The best frozen food supplier for your businese."
+        description="Chill your success with our frozen delights!"
         button={
           <Link href="/">
             <Button xl>NorthLink Trading Limited</Button>
