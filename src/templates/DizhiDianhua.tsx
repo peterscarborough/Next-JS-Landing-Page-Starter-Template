@@ -25,4 +25,4 @@ const VerticalFeatures = () => (
   </Section>
 );
 
-export { VerticalFeatures };
+export { DizhiDianhua };
