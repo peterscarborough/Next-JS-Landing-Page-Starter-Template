@@ -1,6 +1,6 @@
 export const AppConfig = {
   site_name: 'NorthLink',
-  title: 'Nextjs Starter',
-  description: 'Starter code for your Nextjs Boilerplate with Tailwind CSS',
+  title: 'NorthLink Trading Limited',
+  description: 'NorthLink Trading Limited 北海公司',
   locale: 'en',
 };
