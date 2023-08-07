@@ -19,7 +19,7 @@ const VerticalFeatures = () => (
     <VerticalFeatureRow
       title="无骨牛肉"
       description="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse bibendum, nunc non posuere consectetur, justo erat semper enim, non hendrerit dui odio id enim."
-      image="/assets/images/wuguniurou.jpg"
+      image="https://p.globalsources.com/IMAGES/PDT/B1181855913/frozen-beef-trimming-beef-trimming.jpg"
       imageAlt="无骨牛肉"
     />
   </Section>
