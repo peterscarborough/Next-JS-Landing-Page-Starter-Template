@@ -2,6 +2,7 @@ import type { ReactNode } from 'react';
 
 type ICTABannerProps = {
   title: string;
+  title: string;
   subtitle: string;
   button: ReactNode;
 };
