@@ -4,7 +4,7 @@ import { Section } from '../layout/Section';
 const VerticalFeatures = () => (
   <Section
     title="冻货"
-    description="Frozen Items  "
+    description="Frozen Items"
   >
     <VerticalFeatureRow
       title="冻虾"
