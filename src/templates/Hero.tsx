@@ -30,8 +30,8 @@ const Hero = () => (
         }
         description="The best frozen food supplier for your businese."
         button={
-          <Link href="https://northlink.netlify.app/">
-            <Button xl>North Link Trading Limited</Button>
+          <Link href="/">
+            <Button xl>NorthLink Trading Limited</Button>
           </Link>
         }
       />
