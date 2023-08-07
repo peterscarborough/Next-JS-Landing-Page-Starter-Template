@@ -12,7 +12,7 @@ const Hero = () => (
     <Section yPadding="py-6">
       <NavbarTwoColumns logo={<Logo xl />}>
         <li>
-          <Link href="https://northlink.netlify.app/">NorthLink</Link>
+          <Link href="/">北海</Link>
         </li>
         <li>
           <Link href="/">Sign in</Link>
