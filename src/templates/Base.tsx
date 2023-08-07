@@ -4,6 +4,7 @@ import { Banner } from './Banner';
 import { Footer } from './Footer';
 import { Hero } from './Hero';
 import { VerticalFeatures } from './VerticalFeatures';
+import { DizhiDianhua } from './DizhiDianhua';
 
 const Base = () => (
   <div className="text-gray-600 antialiased">
