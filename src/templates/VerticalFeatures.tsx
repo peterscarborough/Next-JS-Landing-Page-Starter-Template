@@ -4,7 +4,7 @@ import { Section } from '../layout/Section';
 const VerticalFeatures = () => (
   <Section
     title="冻货"
-    description="虾仁 P&D Shrimp\n鱿鱼筒\n鱿鱼须\n鱼柳\n有头中虾\n有头大虾\n去头白虾\n去头老虎虾\n中鸡翅\n牛孖筋\n猪脚\n无骨羊肩肉\n桂花鱼\n无头鳕鱼仔\n鱿鱼圈\n小春卷\n大春卷 \n无骨牛肉"
+    description="虾仁 P&D Shrimp<br>鱿鱼筒<br>鱿鱼须<br>鱼柳<br>有头中虾<br>有头大虾<br>去头白虾<br>去头老虎虾<br>中鸡翅<br>牛孖筋<br>猪脚<br>无骨羊肩肉<br>桂花鱼<br>无头鳕鱼仔<br>鱿鱼圈<br>小春卷<br>大春卷 <br>无骨牛肉"
   >
     <VerticalFeatureRow
       title="Your title here"
