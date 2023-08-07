@@ -1,8 +1,8 @@
-import { VerticalFeatures } from './VerticalFeatures';
+import { VerticalFeatures1 } from './VerticalFeatures1';
 
 const Base1 = () => (
   <div className="text-gray-600 antialiased">
-    <VerticalFeatures />
+    <VerticalFeatures1 />
   </div>
 );
 
