@@ -11,6 +11,7 @@ const Base = () => (
     <Hero />
     <VerticalFeatures />
     <Banner />
+    <dizhidianhua />
     <Footer />
   </div>
 );
