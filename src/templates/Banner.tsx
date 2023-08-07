@@ -8,6 +8,7 @@ const Banner = () => (
   <Section>
     <CTABanner
       title="请和我们联系. Please contact us for more info."
+      title1="请和我们联系. Please contact us for more info."
       subtitle="Tel: 416-917 4999"
       button={
         <Link href="/">
